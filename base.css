@@ -1,0 +1,63 @@
+@charset "utf-8";
+body h1 {
+    color: #715400;
+    font-family: "源ノ角ゴシック Code JP EL";
+    line-height: 0px;
+    font-weight: 900;
+}
+body ul {
+    line-height: 30px;
+}
+.key {
+    color: #FF0000;
+    background-color: #FFFFFF;
+}
+body {
+    background-image: url(sky.jpg);
+}
+#one {
+    background-color: rgba(0,255,34,0.50);
+    width: 430px;
+    height: 250px;
+    float: left;
+}
+#two {
+    background-color: rgba(235,255,0,0.50);
+    width: 430px;
+    height: 250px;
+    float: left;
+}
+
+#three{
+    width: 1000px;
+    height: 10px;
+    float: left;
+}
+
+#four {
+    background-color: rgba(0,255,240,0.50);
+    width: 430px;
+    height: 250px;
+    float: left;
+}
+
+#five {
+    background-color: rgba(0,255,240,0.50);
+    width: 750px;
+    height: 300px;
+    float: left;
+}
+
+#six {
+    background-color: rgba(222,187,255,1.00);
+    width: 500px;
+    height: 100px;
+    float: left;
+}
+
+body p img {
+    border-width: 10px;
+    border-style: double;
+    float: left;
+    text-align: justify;
+}
